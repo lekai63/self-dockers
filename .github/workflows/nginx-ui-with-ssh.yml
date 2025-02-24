@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "nginx-ui.Dockerfile" # 只有这个文件改变时才触发
+      - "nginx-ui-with-ssh.Dockerfile" # 只有这个文件改变时才触发
   # pull_request:
   #   branches: ["main"]
   # 允许手动触发工作流
