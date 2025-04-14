@@ -10,3 +10,4 @@ payload:
   - IP-CIDR6,2606:4700:20::681a:b50/128
   - PROCESS-NAME,Zed.exe
   - PROCESS-NAME,Zed
+  - DOMAIN-SUFFIX,googleapis.com
