@@ -9,4 +9,5 @@ IP-CIDR6,2606:4700:20::681a:a50/128,no-resolve
 IP-CIDR6,2606:4700:20::681a:b50/128,no-resolve
 PROCESS-NAME,Zed.exe
 PROCESS-NAME,Zed
-DOMAIN-SUFFIX,googleapis.com
+# Google ip段 https://www.gstatic.com/ipranges/goog.json
+IP-CIDR,142.250.0.0/15,no-resolve
