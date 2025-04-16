@@ -13,3 +13,4 @@ payload:
   - PROCESS-NAME,Zed
 # Google ip段 https://www.gstatic.com/ipranges/goog.json
   - IP-CIDR,142.250.0.0/15
+  - IP-CIDR,172.217.0.0/16
