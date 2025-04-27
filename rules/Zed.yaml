@@ -14,3 +14,6 @@ payload:
 # Google ip段 https://www.gstatic.com/ipranges/goog.json
   - IP-CIDR,142.250.0.0/15
   - IP-CIDR,172.217.0.0/16
+# Dia浏览器
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,diabrowser.engineering
