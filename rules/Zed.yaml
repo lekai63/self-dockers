@@ -16,4 +16,5 @@ payload:
   - IP-CIDR,172.217.0.0/16
 # Dia浏览器
   - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,diabrowser.engineering
