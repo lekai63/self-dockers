@@ -2,6 +2,11 @@
 # AUTHOR: lekai
 payload:
   - DOMAIN-SUFFIX,zed.dev
+  - DOMAIN-SUFFIX,repology.org
+  - DOMAIN-SUFFIX,die.net
+  - DOMAIN-SUFFIX,renovatebot.com
+  - DOMAIN-SUFFIX,allaboutcookies.org
+  - DOMAIN-SUFFIX,perplexity.ai
   - PROCESS-NAME,Zed
 # Google ip段 https://www.gstatic.com/ipranges/goog.json
   - IP-CIDR,142.250.0.0/15
